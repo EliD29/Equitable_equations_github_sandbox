@@ -7,4 +7,7 @@ create_github_token()
 gitcreds::gitcreds_set()
 
 # Put a project onto GitHub
+use_github()
+
+# Create a readme
 use_readme_md()
